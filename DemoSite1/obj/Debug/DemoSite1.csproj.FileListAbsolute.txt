@@ -1,0 +1,4 @@
+c:\users\davidloo\documents\visual studio 2013\Projects\SharePoint2013\DemoSite1\bin\Debug\DemoSite1.dll
+c:\users\davidloo\documents\visual studio 2013\Projects\SharePoint2013\DemoSite1\bin\Debug\DemoSite1.pdb
+c:\users\davidloo\documents\visual studio 2013\Projects\SharePoint2013\DemoSite1\obj\Debug\DemoSite1.dll
+c:\users\davidloo\documents\visual studio 2013\Projects\SharePoint2013\DemoSite1\obj\Debug\DemoSite1.pdb
