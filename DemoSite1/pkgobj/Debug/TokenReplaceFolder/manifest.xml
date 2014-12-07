@@ -8,10 +8,11 @@
     </Assembly>
   </Assemblies>
   <TemplateFiles>
-    <TemplateFile Location="Layouts\Scripts\angular.js" />
     <TemplateFile Location="Layouts\DemoSite1\Scripts\HelloWorldController.js" />
+    <TemplateFile Location="Layouts\Scripts\angular.js" />
   </TemplateFiles>
   <FeatureManifests>
     <FeatureManifest Location="DemoSite1_WebParts\Feature.xml" />
+    <FeatureManifest Location="DemoSite1_Setup\Feature.xml" />
   </FeatureManifests>
 </Solution>
